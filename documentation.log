@@ -1,0 +1,1088 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  4 SEP 2025 16:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/sanjaytamang/Documents/Latex_odoo/documentation.tex
+(/Users/sanjaytamang/Documents/Latex_odoo/documentation.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks20
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count273
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count277
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count278
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen151
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count279
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count283
+\c@bookmark@seq@number=\count284
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip51
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen156
+)) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count285
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count286
+\leftroot@=\count287
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count288
+\DOTSCASE@=\count289
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count290
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count291
+\dotsspace@=\muskip18
+\c@parentequation=\count292
+\dspbrk@lvl=\count293
+\tag@help=\toks22
+\row@=\count294
+\column@=\count295
+\maxfields@=\count296
+\andhelp@=\toks23
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks24
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count297
+\lst@gtempboxa=\box54
+\lst@token=\toks26
+\lst@length=\count298
+\lst@currlwidth=\dimen165
+\lst@column=\count299
+\lst@pos=\count300
+\lst@lostspace=\dimen166
+\lst@width=\dimen167
+\lst@newlines=\count301
+\lst@lineno=\count302
+\lst@maxwidth=\dimen168
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count303
+\lst@skipnumbers=\count304
+\lst@framebox=\box55
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks27
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count305
+\LTcapwidth=\dimen174
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count306
+\LT@rows=\count307
+\c@LT@tables=\count308
+\c@LT@chunks=\count309
+\LT@p@ftn=\toks28
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip61
+\f@nch@offset@elh=\skip62
+\f@nch@offset@erh=\skip63
+\f@nch@offset@olh=\skip64
+\f@nch@offset@orh=\skip65
+\f@nch@offset@elf=\skip66
+\f@nch@offset@erf=\skip67
+\f@nch@offset@olf=\skip68
+\f@nch@offset@orf=\skip69
+\f@nch@height=\skip70
+\f@nch@footalignment=\skip71
+\f@nch@widthL=\skip72
+\f@nch@widthC=\skip73
+\f@nch@widthR=\skip74
+\@temptokenb=\toks29
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip75
+\enit@outerparindent=\dimen175
+\enit@toks=\toks30
+\enit@inbox=\box62
+\enit@count@id=\count310
+\enitdp@description=\count311
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 30.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count312
+\l__pdf_internal_box=\box63
+) (./documentation.aux)
+\openout1 = `documentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 65.
+(./documentation.out) (./documentation.out)
+\@outlinefile=\write3
+\openout3 = `documentation.out'.
+
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count313
+\scratchdimen=\dimen176
+\scratchbox=\box64
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen177
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count319
+<logo.png, id=140, 223.83624pt x 226.8475pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 79.
+(pdftex.def)             Requested size: 135.89174pt x 137.72256pt.
+
+
+[1
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./logo.png>] (./documentation.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `documentation.toc'.
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.85 \newpage
+              [1]
+<diagram/odoo_financial_management_manual.png, id=189, 617.30624pt x 242.9075pt>
+File: diagram/odoo_financial_management_manual.png Graphic file (type png)
+<use diagram/odoo_financial_management_manual.png>
+Package pdftex.def Info: diagram/odoo_financial_management_manual.png  used on input line 93.
+(pdftex.def)             Requested size: 362.37569pt x 142.59511pt.
+<diagram/odoo_accounting_module_integration.png, id=191, 610.28pt x 289.08pt>
+File: diagram/odoo_accounting_module_integration.png Graphic file (type png)
+<use diagram/odoo_accounting_module_integration.png>
+Package pdftex.def Info: diagram/odoo_accounting_module_integration.png  used on input line 116.
+(pdftex.def)             Requested size: 362.37569pt x 171.65846pt.
+
+
+[2 <./diagram/odoo_financial_management_manual.png> <./diagram/odoo_accounting_module_integration.png>]
+<diagram/odoo_technology_stack.png, id=199, 383.4325pt x 242.9075pt>
+File: diagram/odoo_technology_stack.png Graphic file (type png)
+<use diagram/odoo_technology_stack.png>
+Package pdftex.def Info: diagram/odoo_technology_stack.png  used on input line 135.
+(pdftex.def)             Requested size: 362.37569pt x 229.58214pt.
+<diagram/odoo_accounting_module_capabilities.png, id=200, 542.025pt x 527.9725pt>
+File: diagram/odoo_accounting_module_capabilities.png Graphic file (type png)
+<use diagram/odoo_accounting_module_capabilities.png>
+Package pdftex.def Info: diagram/odoo_accounting_module_capabilities.png  used on input line 150.
+(pdftex.def)             Requested size: 362.37569pt x 352.99051pt.
+
+
+[3 <./diagram/odoo_technology_stack.png>]
+<diagram/C1.png, id=206, 1464.47125pt x 1065.9825pt>
+File: diagram/C1.png Graphic file (type png)
+<use diagram/C1.png>
+Package pdftex.def Info: diagram/C1.png  used on input line 179.
+(pdftex.def)             Requested size: 362.37569pt x 263.76236pt.
+
+
+[4 <./diagram/odoo_accounting_module_capabilities.png>]
+
+[5 <./diagram/C1.png>]
+
+[6]
+<diagram/odoo_accounting_module_structure.png, id=237, 750.805pt x 414.54875pt>
+File: diagram/odoo_accounting_module_structure.png Graphic file (type png)
+<use diagram/odoo_accounting_module_structure.png>
+Package pdftex.def Info: diagram/odoo_accounting_module_structure.png  used on input line 227.
+(pdftex.def)             Requested size: 362.37569pt x 200.08177pt.
+
+
+[7 <./diagram/odoo_accounting_module_structure.png>]
+<diagram/comprehensive_financial_management.png, id=243, 549.05125pt x 413.545pt>
+File: diagram/comprehensive_financial_management.png Graphic file (type png)
+<use diagram/comprehensive_financial_management.png>
+Package pdftex.def Info: diagram/comprehensive_financial_management.png  used on input line 263.
+(pdftex.def)             Requested size: 362.37569pt x 272.94684pt.
+
+
+[8 <./diagram/comprehensive_financial_management.png>]
+<diagram/sales_to_cash_cycle.png, id=249, 664.4825pt x 595.22375pt>
+File: diagram/sales_to_cash_cycle.png Graphic file (type png)
+<use diagram/sales_to_cash_cycle.png>
+Package pdftex.def Info: diagram/sales_to_cash_cycle.png  used on input line 299.
+(pdftex.def)             Requested size: 203.83417pt x 182.58292pt.
+
+
+[9 <./diagram/sales_to_cash_cycle.png>]
+<diagram/procure_to_pay_cycle.png, id=269, 656.4525pt x 575.14874pt>
+File: diagram/procure_to_pay_cycle.png Graphic file (type png)
+<use diagram/procure_to_pay_cycle.png>
+Package pdftex.def Info: diagram/procure_to_pay_cycle.png  used on input line 352.
+(pdftex.def)             Requested size: 203.83417pt x 178.58388pt.
+
+
+[10 <./diagram/procure_to_pay_cycle.png>]
+<diagram/month_end_close.png, id=289, 663.47874pt x 375.4025pt>
+File: diagram/month_end_close.png Graphic file (type png)
+<use diagram/month_end_close.png>
+Package pdftex.def Info: diagram/month_end_close.png  used on input line 390.
+(pdftex.def)             Requested size: 362.37569pt x 205.03424pt.
+
+
+[11 <./diagram/month_end_close.png>]
+
+[12]
+<diagram/C2.png, id=330, 963.6pt x 923.45pt>
+File: diagram/C2.png Graphic file (type png)
+<use diagram/C2.png>
+Package pdftex.def Info: diagram/C2.png  used on input line 508.
+(pdftex.def)             Requested size: 362.37569pt x 347.26515pt.
+
+
+[13]
+
+[14{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./diagram/C2.png>]
+
+[15]
+
+[16]
+
+[17]
+<diagram/odoo_accouting_key_data_models.png, id=365, 1225.57875pt x 980.66376pt>
+File: diagram/odoo_accouting_key_data_models.png Graphic file (type png)
+<use diagram/odoo_accouting_key_data_models.png>
+Package pdftex.def Info: diagram/odoo_accouting_key_data_models.png  used on input line 738.
+(pdftex.def)             Requested size: 362.37569pt x 289.9517pt.
+
+
+[18]
+Overfull \hbox (2.70221pt too wide) in paragraph at lines 748--773
+[][] 
+ []
+
+
+
+[19 <./diagram/odoo_accouting_key_data_models.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 787--788
+[]\T1/cmr/m/n/10.95 Add In-voice Lines (ac-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 787--788
+\T1/cmr/m/n/10.95 count.move.line): Line items like
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 788--790
+[]\T1/cmr/m/n/10.95 Validate In-voice: The in-voice is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
+[]\T1/cmr/m/n/10.95 Register Pay-ment (ac-
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 790--792
+\T1/cmr/m/n/10.95 count.payment): A pay-ment is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
+[]\T1/cmr/m/n/10.95 Reconcile Pay-ment (ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
+\T1/cmr/m/n/10.95 count.partial.reconcile): Deb-its
+ []
+
+<diagram/invoice-DFD.png, id=378, 564.1075pt x 1158.3275pt>
+File: diagram/invoice-DFD.png Graphic file (type png)
+<use diagram/invoice-DFD.png>
+Package pdftex.def Info: diagram/invoice-DFD.png  used on input line 802.
+(pdftex.def)             Requested size: 181.18439pt x 372.03333pt.
+
+
+[20 <./diagram/invoice-DFD.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 825--829
+[]\T1/cmr/m/n/10.95 Generate Jour-nal En-try (ac-
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 825--829
+\T1/cmr/m/n/10.95 count.move): Ac-count-ing records
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--833
+[]\T1/cmr/m/n/10.95 Link to In-voice (ac-
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 832--833
+\T1/cmr/m/n/10.95 count.partial.reconcile): Rec-on-ciles
+ []
+
+<diagram/payment-DFD.png, id=390, 711.65875pt x 898.35625pt>
+File: diagram/payment-DFD.png Graphic file (type png)
+<use diagram/payment-DFD.png>
+Package pdftex.def Info: diagram/payment-DFD.png  used on input line 838.
+(pdftex.def)             Requested size: 203.83417pt x 257.2953pt.
+
+
+[21 <./diagram/payment-DFD.png (PNG copy)>]
+<diagram/bankreconciliation-DFD.png, id=401, 837.1275pt x 770.88pt>
+File: diagram/bankreconciliation-DFD.png Graphic file (type png)
+<use diagram/bankreconciliation-DFD.png>
+Package pdftex.def Info: diagram/bankreconciliation-DFD.png  used on input line 846.
+(pdftex.def)             Requested size: 362.37569pt x 333.69508pt.
+
+
+[22 <./diagram/bankreconciliation-DFD.png (PNG copy)>]
+<diagram/UI_one.png, id=406, 1229.59375pt x 751.80875pt>
+File: diagram/UI_one.png Graphic file (type png)
+<use diagram/UI_one.png>
+Package pdftex.def Info: diagram/UI_one.png  used on input line 875.
+(pdftex.def)             Requested size: 362.37569pt x 221.56369pt.
+<diagram/UI_two.png, id=407, 1334.9875pt x 736.7525pt>
+File: diagram/UI_two.png Graphic file (type png)
+<use diagram/UI_two.png>
+Package pdftex.def Info: diagram/UI_two.png  used on input line 894.
+(pdftex.def)             Requested size: 362.37569pt x 199.98257pt.
+
+
+[23 <./diagram/UI_one.png> <./diagram/UI_two.png>]
+<diagram/COA.png, id=414, 2318.6625pt x 1525.7pt>
+File: diagram/COA.png Graphic file (type png)
+<use diagram/COA.png>
+Package pdftex.def Info: diagram/COA.png  used on input line 913.
+(pdftex.def)             Requested size: 362.37569pt x 238.4366pt.
+
+
+[24 <./diagram/COA.png>]
+<diagram/Taxes.png, id=424, 1130.2225pt x 630.355pt>
+File: diagram/Taxes.png Graphic file (type png)
+<use diagram/Taxes.png>
+Package pdftex.def Info: diagram/Taxes.png  used on input line 931.
+(pdftex.def)             Requested size: 362.37569pt x 202.10245pt.
+<diagram/Taxes_second.png, id=425, 967.615pt x 956.57375pt>
+File: diagram/Taxes_second.png Graphic file (type png)
+<use diagram/Taxes_second.png>
+Package pdftex.def Info: diagram/Taxes_second.png  used on input line 932.
+(pdftex.def)             Requested size: 362.37569pt x 358.2472pt.
+
+
+[25 <./diagram/Taxes.png> <./diagram/Taxes_second.png>]
+<diagram/Currency.png, id=436, 1016.79875pt x 728.7225pt>
+File: diagram/Currency.png Graphic file (type png)
+<use diagram/Currency.png>
+Package pdftex.def Info: diagram/Currency.png  used on input line 949.
+(pdftex.def)             Requested size: 362.37569pt x 259.7046pt.
+
+
+[26 <./diagram/Currency.png>]
+<diagram/Fiscal_Localization.png, id=445, 1095.09125pt x 723.70375pt>
+File: diagram/Fiscal_Localization.png Graphic file (type png)
+<use diagram/Fiscal_Localization.png>
+Package pdftex.def Info: diagram/Fiscal_Localization.png  used on input line 966.
+(pdftex.def)             Requested size: 362.37569pt x 239.48553pt.
+<diagram/Fiscal_year.png, id=446, 2258.4375pt x 919.435pt>
+File: diagram/Fiscal_year.png Graphic file (type png)
+<use diagram/Fiscal_year.png>
+Package pdftex.def Info: diagram/Fiscal_year.png  used on input line 967.
+(pdftex.def)             Requested size: 362.37569pt x 147.51945pt.
+
+
+[27 <./diagram/Fiscal_Localization.png> <./diagram/Fiscal_year.png>]
+<diagram/custom_multi_level.png, id=456, 1137.24875pt x 608.2725pt>
+File: diagram/custom_multi_level.png Graphic file (type png)
+<use diagram/custom_multi_level.png>
+Package pdftex.def Info: diagram/custom_multi_level.png  used on input line 987.
+(pdftex.def)             Requested size: 362.37569pt x 193.82512pt.
+<diagram/advanced_activity.png, id=457, 415.5525pt x 849.1725pt>
+File: diagram/advanced_activity.png Graphic file (type png)
+<use diagram/advanced_activity.png>
+Package pdftex.def Info: diagram/advanced_activity.png  used on input line 1055.
+(pdftex.def)             Requested size: 203.83417pt x 416.52576pt.
+
+
+[28 <./diagram/custom_multi_level.png (PNG copy)>]
+<diagram/Invoice to journal posting.png, id=462, 1039.885pt x 499.8675pt>
+File: diagram/Invoice to journal posting.png Graphic file (type png)
+<use diagram/Invoice to journal posting.png>
+Package pdftex.def Info: diagram/Invoice to journal posting.png  used on input line 1061.
+(pdftex.def)             Requested size: 362.37569pt x 174.18588pt.
+
+
+[29 <./diagram/advanced_activity.png> <./diagram/Invoice to journal posting.png>]
+<diagram/adding_analytical_dimensions.png, id=468, 772.8875pt x 524.96124pt>
+File: diagram/adding_analytical_dimensions.png Graphic file (type png)
+<use diagram/adding_analytical_dimensions.png>
+Package pdftex.def Info: diagram/adding_analytical_dimensions.png  used on input line 1086.
+(pdftex.def)             Requested size: 226.48395pt x 153.8289pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1095
+[]\T1/cmr/m/n/10.95 Extend Jour-nal Items: Add
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1095
+\T1/cmr/m/n/10.95 a many2one field to the ac-
+ []
+
+
+Overfull \hbox (4.72528pt too wide) in paragraph at lines 1084--1100
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (5.96829pt too wide) in paragraph at lines 1113--1114
+[]\T1/cmr/m/n/10.95 Extend ac-count.tax: Add cus-tom fields (e.g., x_tax_code, x_reporting_category)
+ []
+
+
+
+[30 <./diagram/adding_analytical_dimensions.png (PNG copy)>]
+Underfull \hbox (badness 1997) in paragraph at lines 1150--1151
+[]\T1/cmr/bx/n/10.95 Create a Python Method for Auto-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 1160--1163
+[]\T1/cmr/bx/n/10.95 Set up Jour-nal En-tries: \T1/cmr/m/n/10.95 If con-di-
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 1160--1163
+\T1/cmtt/m/n/10.95 account.move \T1/cmr/m/n/10.95 and \T1/cmtt/m/n/10.95 account.move.line
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 1164--1166
+[]\T1/cmr/bx/n/10.95 Post Jour-nal En-tries: \T1/cmr/m/n/10.95 Fi-nally, the
+ []
+
+<diagram/autoposting.png, id=485, 1647.15375pt x 3854.4pt>
+File: diagram/autoposting.png Graphic file (type png)
+<use diagram/autoposting.png>
+Package pdftex.def Info: diagram/autoposting.png  used on input line 1181.
+(pdftex.def)             Requested size: 203.83417pt x 476.97614pt.
+
+Overfull \hbox (16.99998pt too wide) in paragraph at lines 1148--1183
+[]$[]$ $[]$ 
+ []
+
+
+
+[31 <./diagram/autoposting.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1205
+[]\T1/cmr/m/n/10.95 Custom pay-ment fre-quency or
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 1213--1217
+[]\T1/cmr/m/n/10.95 Return Cus-tom Pay-ment Terms: The
+ []
+
+<diagram/paymenttermcustomization.png, id=501, 1450.41875pt x 3854.4pt>
+File: diagram/paymenttermcustomization.png Graphic file (type png)
+<use diagram/paymenttermcustomization.png>
+Package pdftex.def Info: diagram/paymenttermcustomization.png  used on input line 1224.
+(pdftex.def)             Requested size: 203.83417pt x 541.67079pt.
+
+
+[32 <./diagram/paymenttermcustomization.png>]
+<diagram/Customization_of_views&action.png, id=513, 771.88374pt x 694.595pt>
+File: diagram/Customization_of_views&action.png Graphic file (type png)
+<use diagram/Customization_of_views&action.png>
+Package pdftex.def Info: diagram/Customization_of_views&action.png  used on input line 1258.
+(pdftex.def)             Requested size: 203.83417pt x 183.42027pt.
+
+Overfull \hbox (4.72528pt too wide) in paragraph at lines 1245--1261
+[]$[]$ $[]$
+ []
+
+
+
+[33 <./diagram/Customization_of_views&action.png (PNG copy)>]
+
+[34]
+Underfull \hbox (badness 1210) in paragraph at lines 1346--1347
+[]\T1/cmr/m/n/10.95 Display and for-mat the data
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 1353--1355
+[]\T1/cmr/m/n/10.95 Create spread-sheet re-ports, which
+ []
+
+<diagram/reporting_customization_workflow.png, id=549, 397.485pt x 812.03375pt>
+File: diagram/reporting_customization_workflow.png Graphic file (type png)
+<use diagram/reporting_customization_workflow.png>
+Package pdftex.def Info: diagram/reporting_customization_workflow.png  used on input line 1361.
+(pdftex.def)             Requested size: 181.18439pt x 370.15742pt.
+<diagram/C3.png, id=550, 1469.49pt x 1000.73875pt>
+File: diagram/C3.png Graphic file (type png)
+<use diagram/C3.png>
+Package pdftex.def Info: diagram/C3.png  used on input line 1375.
+(pdftex.def)             Requested size: 362.37569pt x 246.77885pt.
+
+
+[35 <./diagram/reporting_customization_workflow.png (PNG copy)>]
+
+[36 <./diagram/C3.png>]
+
+[37]
+<diagram/C4_model.png, id=609, 3854.4pt x 2315.65125pt>
+File: diagram/C4_model.png Graphic file (type png)
+<use diagram/C4_model.png>
+Package pdftex.def Info: diagram/C4_model.png  used on input line 1503.
+(pdftex.def)             Requested size: 362.37569pt x 217.69244pt.
+
+
+[38 <./diagram/C4_model.png>]
+<diagram/odoo_accounting_module_implementation.png, id=621, 720.6925pt x 367.3725pt>
+File: diagram/odoo_accounting_module_implementation.png Graphic file (type png)
+<use diagram/odoo_accounting_module_implementation.png>
+Package pdftex.def Info: diagram/odoo_accounting_module_implementation.png  used on input line 1521.
+(pdftex.def)             Requested size: 362.37569pt x 184.71722pt.
+
+
+[39 <./diagram/odoo_accounting_module_implementation.png>]
+
+[40]
+Underfull \hbox (badness 5939) in paragraph at lines 1603--1604
+[]\T1/cmr/bx/n/10.95 Purpose: \T1/cmr/m/n/10.95 To sup-port re-struc-tur-ings
+ []
+
+<diagram/odoo_accounting_maintenance_cycle.png, id=656, 424.58624pt x 454.69875pt>
+File: diagram/odoo_accounting_maintenance_cycle.png Graphic file (type png)
+<use diagram/odoo_accounting_maintenance_cycle.png>
+Package pdftex.def Info: diagram/odoo_accounting_maintenance_cycle.png  used on input line 1617.
+(pdftex.def)             Requested size: 203.83417pt x 218.2876pt.
+
+
+[41 <./diagram/odoo_accounting_maintenance_cycle.png>]
+Underfull \hbox (badness 1163) in paragraph at lines 1655--1656
+\T1/cmr/m/n/10.95 sched-ule (e.g., ev-ery day, weekly)
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 1655--1656
+\T1/cmr/m/n/10.95 based on vol-ume and ur-gency of
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 1656--1657
+[]\T1/cmr/m/n/10.95 Secure Stor-age Lo-ca-tion: Store
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 1656--1657
+\T1/cmr/m/n/10.95 back-ups se-curely and re-dun-dantly
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 1658--1659
+\T1/cmr/m/n/10.95 the backup restora-tion pro-cess to
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 1664--1665
+[]\T1/cmr/m/n/10.95 Include ver-sion-ing and snap-shot
+ []
+
+<diagram/accounting_maintenance_workflow.png, id=675, 519.9425pt x 996.72375pt>
+File: diagram/accounting_maintenance_workflow.png Graphic file (type png)
+<use diagram/accounting_maintenance_workflow.png>
+Package pdftex.def Info: diagram/accounting_maintenance_workflow.png  used on input line 1671.
+(pdftex.def)             Requested size: 203.83417pt x 390.74347pt.
+
+
+[42 <./diagram/accounting_maintenance_workflow.png (PNG copy)>]
+Overfull \hbox (2.67732pt too wide) in alignment at lines 1679--1739
+ [] [] 
+ []
+
+[43] [44]
+<diagram/use_case_accounting.png, id=702, 454.69875pt x 1678.27pt>
+File: diagram/use_case_accounting.png Graphic file (type png)
+<use diagram/use_case_accounting.png>
+Package pdftex.def Info: diagram/use_case_accounting.png  used on input line 1821.
+(pdftex.def)             Requested size: 151.83414pt x 560.41216pt.
+
+Underfull \hbox (badness 2165) in paragraph at lines 1849--1850
+[]\T1/cmr/bx/n/10.95 Accountant: \T1/cmr/m/n/10.95 Per-forms mul-ti-ple tasks
+ []
+
+
+
+[45]
+
+[46 <./diagram/use_case_accounting.png (PNG copy)>]
+
+[47]
+<diagram/sequence_accounting_diagram.png, id=716, 1274.7625pt x 1331.97626pt>
+File: diagram/sequence_accounting_diagram.png Graphic file (type png)
+<use diagram/sequence_accounting_diagram.png>
+Package pdftex.def Info: diagram/sequence_accounting_diagram.png  used on input line 1920.
+(pdftex.def)             Requested size: 452.9679pt x 473.29185pt.
+
+
+[48 <./diagram/sequence_accounting_diagram.png (PNG copy)>]
+<diagram/class_diagram_account.png, id=725, 1368.11125pt x 1130.2225pt>
+File: diagram/class_diagram_account.png Graphic file (type png)
+<use diagram/class_diagram_account.png>
+Package pdftex.def Info: diagram/class_diagram_account.png  used on input line 1959.
+(pdftex.def)             Requested size: 452.9679pt x 374.19904pt.
+
+Overfull \hbox (33.76639pt too wide) in paragraph at lines 1972--1973
+[]\T1/cmr/m/n/10.95 account_move: Em-ployed to rep-re-sent in-voice head-ers with at-tributes like id, date, amount_total,
+ []
+
+
+Overfull \hbox (0.97803pt too wide) in paragraph at lines 1973--1974
+[]\T1/cmr/m/n/10.95 account_move_line: Rep-re-sents in-di-vid-ual in-voice line items against an in-voice (move_id),
+ []
+
+
+
+[49 <./diagram/class_diagram_account.png (PNG copy)>]
+<diagram/component_diagram.png, id=733, 1187.43625pt x 389.455pt>
+File: diagram/component_diagram.png Graphic file (type png)
+<use diagram/component_diagram.png>
+Package pdftex.def Info: diagram/component_diagram.png  used on input line 2004.
+(pdftex.def)             Requested size: 452.9679pt x 148.56493pt.
+
+
+[50 <./diagram/component_diagram.png (PNG copy)>]
+<diagram/Deployment_Diagram.png, id=738, 1443.3925pt x 880.28876pt>
+File: diagram/Deployment_Diagram.png Graphic file (type png)
+<use diagram/Deployment_Diagram.png>
+Package pdftex.def Info: diagram/Deployment_Diagram.png  used on input line 2018.
+(pdftex.def)             Requested size: 452.9679pt x 276.24472pt.
+
+
+[51 <./diagram/Deployment_Diagram.png (PNG copy)>]
+<diagram/report_architecture.png, id=743, 1597.97pt x 705.63625pt>
+File: diagram/report_architecture.png Graphic file (type png)
+<use diagram/report_architecture.png>
+Package pdftex.def Info: diagram/report_architecture.png  used on input line 2040.
+(pdftex.def)             Requested size: 452.9679pt x 200.02094pt.
+
+
+[52 <./diagram/report_architecture.png (PNG copy)>]
+<diagram/Swimlane.png, id=748, 1042.89626pt x 3854.4pt>
+File: diagram/Swimlane.png Graphic file (type png)
+<use diagram/Swimlane.png>
+Package pdftex.def Info: diagram/Swimlane.png  used on input line 2062.
+(pdftex.def)             Requested size: 151.62187pt x 560.37344pt.
+
+Underfull \hbox (badness 1867) in paragraph at lines 2066--2068
+\T1/cmr/m/n/10.95 ing and billing pro-cess in Odoo 18, in-te-
+ []
+
+
+
+[53 <./diagram/Swimlane.png>]
+Overfull \hbox (86.29031pt too wide) in paragraph at lines 2109--2110
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices.html 
+ []
+
+
+Overfull \hbox (132.86789pt too wide) in paragraph at lines 2113--2114
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices/overview.html 
+ []
+
+
+Overfull \hbox (187.61699pt too wide) in paragraph at lines 2117--2118
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices/electronic_invoicing.html 
+ []
+
+
+Overfull \hbox (225.78877pt too wide) in paragraph at lines 2121--2122
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices/electronic_invoicing/austria.html 
+ []
+
+
+Overfull \hbox (78.31157pt too wide) in paragraph at lines 2129--2130
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/sales/sales/invoicing/time_materials.html 
+ []
+
+
+Overfull \hbox (151.01306pt too wide) in paragraph at lines 2135--2136
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/get_started/chart_of_accounts.html 
+ []
+
+
+Overfull \hbox (21.44289pt too wide) in paragraph at lines 2139--2140
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/bank.html 
+ []
+
+
+Overfull \hbox (133.10579pt too wide) in paragraph at lines 2143--2144
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/bank/bank_synchronization.html 
+ []
+
+
+Overfull \hbox (51.14464pt too wide) in paragraph at lines 2147--2148
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/bank/loans.html 
+ []
+
+
+
+[54]
+Overfull \hbox (34.50684pt too wide) in paragraph at lines 2151--2152
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/payment_providers.html 
+ []
+
+
+Overfull \hbox (43.27907pt too wide) in paragraph at lines 2155--2156
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/payments.html 
+ []
+
+
+Overfull \hbox (42.01353pt too wide) in paragraph at lines 2161--2162
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/reporting.html 
+ []
+
+
+Overfull \hbox (92.82233pt too wide) in paragraph at lines 2165--2166
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/reporting/year_end.html 
+ []
+
+
+Overfull \hbox (54.47302pt too wide) in paragraph at lines 2172--2173
+[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/get_started.html 
+ []
+
+
+
+[55] (./documentation.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `documentation.out' has not changed.
+(rerunfilecheck)             Checksum: 4E548C255945DCC42F802D75F6B23FE5;6693.
+ ) 
+Here is how much of TeX's memory you used:
+ 14016 strings out of 473190
+ 216174 string characters out of 5715800
+ 638856 words of memory out of 5000000
+ 36747 multiletter control sequences out of 15000+600000
+ 570666 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,12n,79p,854b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on documentation.pdf (56 pages, 8317018 bytes).
+PDF statistics:
+ 879 PDF objects out of 1000 (max. 8388607)
+ 725 compressed objects within 8 object streams
+ 359 named destinations out of 1000 (max. 500000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
+
