@@ -73,7 +73,7 @@ Edit the `documentation.tex` file to add or modify the documentation content. Us
 
 ## Extension Used For Latex
 
-- [LaTeX Workshop] (https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
-- [LaTeX Snippets] (https://marketplace.visualstudio.com/items?itemName=JeffersonQin.latex-snippets-jeff)
-- [LaTeX] (https://marketplace.visualstudio.com/items?itemName=mathematic.vscode-latex)
-- [LaTeX Utilities] (https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
+- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+- [LaTeX Snippets](https://marketplace.visualstudio.com/items?itemName=JeffersonQin.latex-snippets-jeff)
+- [LaTeX](https://marketplace.visualstudio.com/items?itemName=mathematic.vscode-latex)
+- [LaTeX Utilities](https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
