@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  4 SEP 2025 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  7 SEP 2025 22:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -339,8 +339,10 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box62
 \enit@count@id=\count310
 \enitdp@description=\count311
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 30.
+Package hyperref Info: Option `colorlinks' set `false' on input line 32.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
@@ -348,24 +350,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./documentation.aux)
 \openout1 = `documentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -401,7 +403,7 @@ LaTeX Font Info:    ... okay on input line 65.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 65.
+Package hyperref Info: Link coloring OFF on input line 67.
 (./documentation.out) (./documentation.out)
 \@outlinefile=\write3
 \openout3 = `documentation.out'.
@@ -429,7 +431,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <logo.png, id=140, 223.83624pt x 226.8475pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 79.
+Package pdftex.def Info: logo.png  used on input line 81.
 (pdftex.def)             Requested size: 135.89174pt x 137.72256pt.
 
 
@@ -453,17 +455,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \newpage
+l.87 \newpage
               [1]
 <diagram/odoo_financial_management_manual.png, id=189, 617.30624pt x 242.9075pt>
 File: diagram/odoo_financial_management_manual.png Graphic file (type png)
 <use diagram/odoo_financial_management_manual.png>
-Package pdftex.def Info: diagram/odoo_financial_management_manual.png  used on input line 93.
+Package pdftex.def Info: diagram/odoo_financial_management_manual.png  used on input line 95.
 (pdftex.def)             Requested size: 362.37569pt x 142.59511pt.
 <diagram/odoo_accounting_module_integration.png, id=191, 610.28pt x 289.08pt>
 File: diagram/odoo_accounting_module_integration.png Graphic file (type png)
 <use diagram/odoo_accounting_module_integration.png>
-Package pdftex.def Info: diagram/odoo_accounting_module_integration.png  used on input line 116.
+Package pdftex.def Info: diagram/odoo_accounting_module_integration.png  used on input line 118.
 (pdftex.def)             Requested size: 362.37569pt x 171.65846pt.
 
 
@@ -471,12 +473,12 @@ Package pdftex.def Info: diagram/odoo_accounting_module_integration.png  used on
 <diagram/odoo_technology_stack.png, id=199, 383.4325pt x 242.9075pt>
 File: diagram/odoo_technology_stack.png Graphic file (type png)
 <use diagram/odoo_technology_stack.png>
-Package pdftex.def Info: diagram/odoo_technology_stack.png  used on input line 135.
+Package pdftex.def Info: diagram/odoo_technology_stack.png  used on input line 137.
 (pdftex.def)             Requested size: 362.37569pt x 229.58214pt.
 <diagram/odoo_accounting_module_capabilities.png, id=200, 542.025pt x 527.9725pt>
 File: diagram/odoo_accounting_module_capabilities.png Graphic file (type png)
 <use diagram/odoo_accounting_module_capabilities.png>
-Package pdftex.def Info: diagram/odoo_accounting_module_capabilities.png  used on input line 150.
+Package pdftex.def Info: diagram/odoo_accounting_module_capabilities.png  used on input line 152.
 (pdftex.def)             Requested size: 362.37569pt x 352.99051pt.
 
 
@@ -484,7 +486,7 @@ Package pdftex.def Info: diagram/odoo_accounting_module_capabilities.png  used o
 <diagram/C1.png, id=206, 1464.47125pt x 1065.9825pt>
 File: diagram/C1.png Graphic file (type png)
 <use diagram/C1.png>
-Package pdftex.def Info: diagram/C1.png  used on input line 179.
+Package pdftex.def Info: diagram/C1.png  used on input line 181.
 (pdftex.def)             Requested size: 362.37569pt x 263.76236pt.
 
 
@@ -496,7 +498,7 @@ Package pdftex.def Info: diagram/C1.png  used on input line 179.
 <diagram/odoo_accounting_module_structure.png, id=237, 750.805pt x 414.54875pt>
 File: diagram/odoo_accounting_module_structure.png Graphic file (type png)
 <use diagram/odoo_accounting_module_structure.png>
-Package pdftex.def Info: diagram/odoo_accounting_module_structure.png  used on input line 227.
+Package pdftex.def Info: diagram/odoo_accounting_module_structure.png  used on input line 229.
 (pdftex.def)             Requested size: 362.37569pt x 200.08177pt.
 
 
@@ -504,7 +506,7 @@ Package pdftex.def Info: diagram/odoo_accounting_module_structure.png  used on i
 <diagram/comprehensive_financial_management.png, id=243, 549.05125pt x 413.545pt>
 File: diagram/comprehensive_financial_management.png Graphic file (type png)
 <use diagram/comprehensive_financial_management.png>
-Package pdftex.def Info: diagram/comprehensive_financial_management.png  used on input line 263.
+Package pdftex.def Info: diagram/comprehensive_financial_management.png  used on input line 265.
 (pdftex.def)             Requested size: 362.37569pt x 272.94684pt.
 
 
@@ -512,7 +514,7 @@ Package pdftex.def Info: diagram/comprehensive_financial_management.png  used on
 <diagram/sales_to_cash_cycle.png, id=249, 664.4825pt x 595.22375pt>
 File: diagram/sales_to_cash_cycle.png Graphic file (type png)
 <use diagram/sales_to_cash_cycle.png>
-Package pdftex.def Info: diagram/sales_to_cash_cycle.png  used on input line 299.
+Package pdftex.def Info: diagram/sales_to_cash_cycle.png  used on input line 301.
 (pdftex.def)             Requested size: 203.83417pt x 182.58292pt.
 
 
@@ -520,7 +522,7 @@ Package pdftex.def Info: diagram/sales_to_cash_cycle.png  used on input line 299
 <diagram/procure_to_pay_cycle.png, id=269, 656.4525pt x 575.14874pt>
 File: diagram/procure_to_pay_cycle.png Graphic file (type png)
 <use diagram/procure_to_pay_cycle.png>
-Package pdftex.def Info: diagram/procure_to_pay_cycle.png  used on input line 352.
+Package pdftex.def Info: diagram/procure_to_pay_cycle.png  used on input line 354.
 (pdftex.def)             Requested size: 203.83417pt x 178.58388pt.
 
 
@@ -528,7 +530,7 @@ Package pdftex.def Info: diagram/procure_to_pay_cycle.png  used on input line 35
 <diagram/month_end_close.png, id=289, 663.47874pt x 375.4025pt>
 File: diagram/month_end_close.png Graphic file (type png)
 <use diagram/month_end_close.png>
-Package pdftex.def Info: diagram/month_end_close.png  used on input line 390.
+Package pdftex.def Info: diagram/month_end_close.png  used on input line 392.
 (pdftex.def)             Requested size: 362.37569pt x 205.03424pt.
 
 
@@ -538,7 +540,7 @@ Package pdftex.def Info: diagram/month_end_close.png  used on input line 390.
 <diagram/C2.png, id=330, 963.6pt x 923.45pt>
 File: diagram/C2.png Graphic file (type png)
 <use diagram/C2.png>
-Package pdftex.def Info: diagram/C2.png  used on input line 508.
+Package pdftex.def Info: diagram/C2.png  used on input line 510.
 (pdftex.def)             Requested size: 362.37569pt x 347.26515pt.
 
 
@@ -554,83 +556,83 @@ Package pdftex.def Info: diagram/C2.png  used on input line 508.
 <diagram/odoo_accouting_key_data_models.png, id=365, 1225.57875pt x 980.66376pt>
 File: diagram/odoo_accouting_key_data_models.png Graphic file (type png)
 <use diagram/odoo_accouting_key_data_models.png>
-Package pdftex.def Info: diagram/odoo_accouting_key_data_models.png  used on input line 738.
+Package pdftex.def Info: diagram/odoo_accouting_key_data_models.png  used on input line 740.
 (pdftex.def)             Requested size: 362.37569pt x 289.9517pt.
 
 
 [18]
-Overfull \hbox (2.70221pt too wide) in paragraph at lines 748--773
+Overfull \hbox (2.70221pt too wide) in paragraph at lines 750--775
 [][] 
  []
 
 
 
 [19 <./diagram/odoo_accouting_key_data_models.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 787--788
+Underfull \hbox (badness 10000) in paragraph at lines 789--790
 []\T1/cmr/m/n/10.95 Add In-voice Lines (ac-
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 787--788
+Underfull \hbox (badness 2343) in paragraph at lines 789--790
 \T1/cmr/m/n/10.95 count.move.line): Line items like
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 788--790
+Underfull \hbox (badness 2538) in paragraph at lines 790--792
 []\T1/cmr/m/n/10.95 Validate In-voice: The in-voice is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 790--792
+Underfull \hbox (badness 10000) in paragraph at lines 792--794
 []\T1/cmr/m/n/10.95 Register Pay-ment (ac-
  []
 
 
-Underfull \hbox (badness 7522) in paragraph at lines 790--792
+Underfull \hbox (badness 7522) in paragraph at lines 792--794
 \T1/cmr/m/n/10.95 count.payment): A pay-ment is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 794--795
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
 []\T1/cmr/m/n/10.95 Reconcile Pay-ment (ac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 794--795
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
 \T1/cmr/m/n/10.95 count.partial.reconcile): Deb-its
  []
 
 <diagram/invoice-DFD.png, id=378, 564.1075pt x 1158.3275pt>
 File: diagram/invoice-DFD.png Graphic file (type png)
 <use diagram/invoice-DFD.png>
-Package pdftex.def Info: diagram/invoice-DFD.png  used on input line 802.
+Package pdftex.def Info: diagram/invoice-DFD.png  used on input line 804.
 (pdftex.def)             Requested size: 181.18439pt x 372.03333pt.
 
 
 [20 <./diagram/invoice-DFD.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 825--829
+Underfull \hbox (badness 10000) in paragraph at lines 827--831
 []\T1/cmr/m/n/10.95 Generate Jour-nal En-try (ac-
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 825--829
+Underfull \hbox (badness 4543) in paragraph at lines 827--831
 \T1/cmr/m/n/10.95 count.move): Ac-count-ing records
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 832--833
+Underfull \hbox (badness 10000) in paragraph at lines 834--835
 []\T1/cmr/m/n/10.95 Link to In-voice (ac-
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 832--833
+Underfull \hbox (badness 2213) in paragraph at lines 834--835
 \T1/cmr/m/n/10.95 count.partial.reconcile): Rec-on-ciles
  []
 
 <diagram/payment-DFD.png, id=390, 711.65875pt x 898.35625pt>
 File: diagram/payment-DFD.png Graphic file (type png)
 <use diagram/payment-DFD.png>
-Package pdftex.def Info: diagram/payment-DFD.png  used on input line 838.
+Package pdftex.def Info: diagram/payment-DFD.png  used on input line 840.
 (pdftex.def)             Requested size: 203.83417pt x 257.2953pt.
 
 
@@ -638,7 +640,7 @@ Package pdftex.def Info: diagram/payment-DFD.png  used on input line 838.
 <diagram/bankreconciliation-DFD.png, id=401, 837.1275pt x 770.88pt>
 File: diagram/bankreconciliation-DFD.png Graphic file (type png)
 <use diagram/bankreconciliation-DFD.png>
-Package pdftex.def Info: diagram/bankreconciliation-DFD.png  used on input line 846.
+Package pdftex.def Info: diagram/bankreconciliation-DFD.png  used on input line 848.
 (pdftex.def)             Requested size: 362.37569pt x 333.69508pt.
 
 
@@ -646,12 +648,12 @@ Package pdftex.def Info: diagram/bankreconciliation-DFD.png  used on input line 
 <diagram/UI_one.png, id=406, 1229.59375pt x 751.80875pt>
 File: diagram/UI_one.png Graphic file (type png)
 <use diagram/UI_one.png>
-Package pdftex.def Info: diagram/UI_one.png  used on input line 875.
+Package pdftex.def Info: diagram/UI_one.png  used on input line 877.
 (pdftex.def)             Requested size: 362.37569pt x 221.56369pt.
 <diagram/UI_two.png, id=407, 1334.9875pt x 736.7525pt>
 File: diagram/UI_two.png Graphic file (type png)
 <use diagram/UI_two.png>
-Package pdftex.def Info: diagram/UI_two.png  used on input line 894.
+Package pdftex.def Info: diagram/UI_two.png  used on input line 896.
 (pdftex.def)             Requested size: 362.37569pt x 199.98257pt.
 
 
@@ -659,7 +661,7 @@ Package pdftex.def Info: diagram/UI_two.png  used on input line 894.
 <diagram/COA.png, id=414, 2318.6625pt x 1525.7pt>
 File: diagram/COA.png Graphic file (type png)
 <use diagram/COA.png>
-Package pdftex.def Info: diagram/COA.png  used on input line 913.
+Package pdftex.def Info: diagram/COA.png  used on input line 915.
 (pdftex.def)             Requested size: 362.37569pt x 238.4366pt.
 
 
@@ -667,12 +669,12 @@ Package pdftex.def Info: diagram/COA.png  used on input line 913.
 <diagram/Taxes.png, id=424, 1130.2225pt x 630.355pt>
 File: diagram/Taxes.png Graphic file (type png)
 <use diagram/Taxes.png>
-Package pdftex.def Info: diagram/Taxes.png  used on input line 931.
+Package pdftex.def Info: diagram/Taxes.png  used on input line 933.
 (pdftex.def)             Requested size: 362.37569pt x 202.10245pt.
 <diagram/Taxes_second.png, id=425, 967.615pt x 956.57375pt>
 File: diagram/Taxes_second.png Graphic file (type png)
 <use diagram/Taxes_second.png>
-Package pdftex.def Info: diagram/Taxes_second.png  used on input line 932.
+Package pdftex.def Info: diagram/Taxes_second.png  used on input line 934.
 (pdftex.def)             Requested size: 362.37569pt x 358.2472pt.
 
 
@@ -680,7 +682,7 @@ Package pdftex.def Info: diagram/Taxes_second.png  used on input line 932.
 <diagram/Currency.png, id=436, 1016.79875pt x 728.7225pt>
 File: diagram/Currency.png Graphic file (type png)
 <use diagram/Currency.png>
-Package pdftex.def Info: diagram/Currency.png  used on input line 949.
+Package pdftex.def Info: diagram/Currency.png  used on input line 951.
 (pdftex.def)             Requested size: 362.37569pt x 259.7046pt.
 
 
@@ -688,12 +690,12 @@ Package pdftex.def Info: diagram/Currency.png  used on input line 949.
 <diagram/Fiscal_Localization.png, id=445, 1095.09125pt x 723.70375pt>
 File: diagram/Fiscal_Localization.png Graphic file (type png)
 <use diagram/Fiscal_Localization.png>
-Package pdftex.def Info: diagram/Fiscal_Localization.png  used on input line 966.
+Package pdftex.def Info: diagram/Fiscal_Localization.png  used on input line 968.
 (pdftex.def)             Requested size: 362.37569pt x 239.48553pt.
 <diagram/Fiscal_year.png, id=446, 2258.4375pt x 919.435pt>
 File: diagram/Fiscal_year.png Graphic file (type png)
 <use diagram/Fiscal_year.png>
-Package pdftex.def Info: diagram/Fiscal_year.png  used on input line 967.
+Package pdftex.def Info: diagram/Fiscal_year.png  used on input line 969.
 (pdftex.def)             Requested size: 362.37569pt x 147.51945pt.
 
 
@@ -701,12 +703,12 @@ Package pdftex.def Info: diagram/Fiscal_year.png  used on input line 967.
 <diagram/custom_multi_level.png, id=456, 1137.24875pt x 608.2725pt>
 File: diagram/custom_multi_level.png Graphic file (type png)
 <use diagram/custom_multi_level.png>
-Package pdftex.def Info: diagram/custom_multi_level.png  used on input line 987.
+Package pdftex.def Info: diagram/custom_multi_level.png  used on input line 989.
 (pdftex.def)             Requested size: 362.37569pt x 193.82512pt.
 <diagram/advanced_activity.png, id=457, 415.5525pt x 849.1725pt>
 File: diagram/advanced_activity.png Graphic file (type png)
 <use diagram/advanced_activity.png>
-Package pdftex.def Info: diagram/advanced_activity.png  used on input line 1055.
+Package pdftex.def Info: diagram/advanced_activity.png  used on input line 1057.
 (pdftex.def)             Requested size: 203.83417pt x 416.52576pt.
 
 
@@ -714,7 +716,7 @@ Package pdftex.def Info: diagram/advanced_activity.png  used on input line 1055.
 <diagram/Invoice to journal posting.png, id=462, 1039.885pt x 499.8675pt>
 File: diagram/Invoice to journal posting.png Graphic file (type png)
 <use diagram/Invoice to journal posting.png>
-Package pdftex.def Info: diagram/Invoice to journal posting.png  used on input line 1061.
+Package pdftex.def Info: diagram/Invoice to journal posting.png  used on input line 1063.
 (pdftex.def)             Requested size: 362.37569pt x 174.18588pt.
 
 
@@ -722,76 +724,76 @@ Package pdftex.def Info: diagram/Invoice to journal posting.png  used on input l
 <diagram/adding_analytical_dimensions.png, id=468, 772.8875pt x 524.96124pt>
 File: diagram/adding_analytical_dimensions.png Graphic file (type png)
 <use diagram/adding_analytical_dimensions.png>
-Package pdftex.def Info: diagram/adding_analytical_dimensions.png  used on input line 1086.
+Package pdftex.def Info: diagram/adding_analytical_dimensions.png  used on input line 1088.
 (pdftex.def)             Requested size: 226.48395pt x 153.8289pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1093--1095
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1097
 []\T1/cmr/m/n/10.95 Extend Jour-nal Items: Add
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1093--1095
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1097
 \T1/cmr/m/n/10.95 a many2one field to the ac-
  []
 
 
-Overfull \hbox (4.72528pt too wide) in paragraph at lines 1084--1100
+Overfull \hbox (4.72528pt too wide) in paragraph at lines 1086--1102
 []$[]$ $[]$ 
  []
 
 
-Overfull \hbox (5.96829pt too wide) in paragraph at lines 1113--1114
+Overfull \hbox (5.96829pt too wide) in paragraph at lines 1115--1116
 []\T1/cmr/m/n/10.95 Extend ac-count.tax: Add cus-tom fields (e.g., x_tax_code, x_reporting_category)
  []
 
 
 
 [30 <./diagram/adding_analytical_dimensions.png (PNG copy)>]
-Underfull \hbox (badness 1997) in paragraph at lines 1150--1151
+Underfull \hbox (badness 1997) in paragraph at lines 1152--1153
 []\T1/cmr/bx/n/10.95 Create a Python Method for Auto-
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 1160--1163
+Underfull \hbox (badness 1005) in paragraph at lines 1162--1165
 []\T1/cmr/bx/n/10.95 Set up Jour-nal En-tries: \T1/cmr/m/n/10.95 If con-di-
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 1160--1163
+Underfull \hbox (badness 1412) in paragraph at lines 1162--1165
 \T1/cmtt/m/n/10.95 account.move \T1/cmr/m/n/10.95 and \T1/cmtt/m/n/10.95 account.move.line
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 1164--1166
+Underfull \hbox (badness 1077) in paragraph at lines 1166--1168
 []\T1/cmr/bx/n/10.95 Post Jour-nal En-tries: \T1/cmr/m/n/10.95 Fi-nally, the
  []
 
 <diagram/autoposting.png, id=485, 1647.15375pt x 3854.4pt>
 File: diagram/autoposting.png Graphic file (type png)
 <use diagram/autoposting.png>
-Package pdftex.def Info: diagram/autoposting.png  used on input line 1181.
+Package pdftex.def Info: diagram/autoposting.png  used on input line 1183.
 (pdftex.def)             Requested size: 203.83417pt x 476.97614pt.
 
-Overfull \hbox (16.99998pt too wide) in paragraph at lines 1148--1183
+Overfull \hbox (16.99998pt too wide) in paragraph at lines 1150--1185
 []$[]$ $[]$ 
  []
 
 
 
 [31 <./diagram/autoposting.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1204--1205
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
 []\T1/cmr/m/n/10.95 Custom pay-ment fre-quency or
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 1213--1217
+Underfull \hbox (badness 1062) in paragraph at lines 1215--1219
 []\T1/cmr/m/n/10.95 Return Cus-tom Pay-ment Terms: The
  []
 
 <diagram/paymenttermcustomization.png, id=501, 1450.41875pt x 3854.4pt>
 File: diagram/paymenttermcustomization.png Graphic file (type png)
 <use diagram/paymenttermcustomization.png>
-Package pdftex.def Info: diagram/paymenttermcustomization.png  used on input line 1224.
+Package pdftex.def Info: diagram/paymenttermcustomization.png  used on input line 1226.
 (pdftex.def)             Requested size: 203.83417pt x 541.67079pt.
 
 
@@ -799,10 +801,10 @@ Package pdftex.def Info: diagram/paymenttermcustomization.png  used on input lin
 <diagram/Customization_of_views&action.png, id=513, 771.88374pt x 694.595pt>
 File: diagram/Customization_of_views&action.png Graphic file (type png)
 <use diagram/Customization_of_views&action.png>
-Package pdftex.def Info: diagram/Customization_of_views&action.png  used on input line 1258.
+Package pdftex.def Info: diagram/Customization_of_views&action.png  used on input line 1260.
 (pdftex.def)             Requested size: 203.83417pt x 183.42027pt.
 
-Overfull \hbox (4.72528pt too wide) in paragraph at lines 1245--1261
+Overfull \hbox (4.72528pt too wide) in paragraph at lines 1247--1263
 []$[]$ $[]$
  []
 
@@ -811,24 +813,24 @@ Overfull \hbox (4.72528pt too wide) in paragraph at lines 1245--1261
 [33 <./diagram/Customization_of_views&action.png (PNG copy)>]
 
 [34]
-Underfull \hbox (badness 1210) in paragraph at lines 1346--1347
+Underfull \hbox (badness 1210) in paragraph at lines 1348--1349
 []\T1/cmr/m/n/10.95 Display and for-mat the data
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 1353--1355
+Underfull \hbox (badness 1565) in paragraph at lines 1355--1357
 []\T1/cmr/m/n/10.95 Create spread-sheet re-ports, which
  []
 
 <diagram/reporting_customization_workflow.png, id=549, 397.485pt x 812.03375pt>
 File: diagram/reporting_customization_workflow.png Graphic file (type png)
 <use diagram/reporting_customization_workflow.png>
-Package pdftex.def Info: diagram/reporting_customization_workflow.png  used on input line 1361.
+Package pdftex.def Info: diagram/reporting_customization_workflow.png  used on input line 1363.
 (pdftex.def)             Requested size: 181.18439pt x 370.15742pt.
 <diagram/C3.png, id=550, 1469.49pt x 1000.73875pt>
 File: diagram/C3.png Graphic file (type png)
 <use diagram/C3.png>
-Package pdftex.def Info: diagram/C3.png  used on input line 1375.
+Package pdftex.def Info: diagram/C3.png  used on input line 1377.
 (pdftex.def)             Requested size: 362.37569pt x 246.77885pt.
 
 
@@ -840,7 +842,7 @@ Package pdftex.def Info: diagram/C3.png  used on input line 1375.
 <diagram/C4_model.png, id=609, 3854.4pt x 2315.65125pt>
 File: diagram/C4_model.png Graphic file (type png)
 <use diagram/C4_model.png>
-Package pdftex.def Info: diagram/C4_model.png  used on input line 1503.
+Package pdftex.def Info: diagram/C4_model.png  used on input line 1505.
 (pdftex.def)             Requested size: 362.37569pt x 217.69244pt.
 
 
@@ -848,63 +850,63 @@ Package pdftex.def Info: diagram/C4_model.png  used on input line 1503.
 <diagram/odoo_accounting_module_implementation.png, id=621, 720.6925pt x 367.3725pt>
 File: diagram/odoo_accounting_module_implementation.png Graphic file (type png)
 <use diagram/odoo_accounting_module_implementation.png>
-Package pdftex.def Info: diagram/odoo_accounting_module_implementation.png  used on input line 1521.
+Package pdftex.def Info: diagram/odoo_accounting_module_implementation.png  used on input line 1523.
 (pdftex.def)             Requested size: 362.37569pt x 184.71722pt.
 
 
 [39 <./diagram/odoo_accounting_module_implementation.png>]
 
 [40]
-Underfull \hbox (badness 5939) in paragraph at lines 1603--1604
+Underfull \hbox (badness 5939) in paragraph at lines 1605--1606
 []\T1/cmr/bx/n/10.95 Purpose: \T1/cmr/m/n/10.95 To sup-port re-struc-tur-ings
  []
 
 <diagram/odoo_accounting_maintenance_cycle.png, id=656, 424.58624pt x 454.69875pt>
 File: diagram/odoo_accounting_maintenance_cycle.png Graphic file (type png)
 <use diagram/odoo_accounting_maintenance_cycle.png>
-Package pdftex.def Info: diagram/odoo_accounting_maintenance_cycle.png  used on input line 1617.
+Package pdftex.def Info: diagram/odoo_accounting_maintenance_cycle.png  used on input line 1619.
 (pdftex.def)             Requested size: 203.83417pt x 218.2876pt.
 
 
 [41 <./diagram/odoo_accounting_maintenance_cycle.png>]
-Underfull \hbox (badness 1163) in paragraph at lines 1655--1656
+Underfull \hbox (badness 1163) in paragraph at lines 1657--1658
 \T1/cmr/m/n/10.95 sched-ule (e.g., ev-ery day, weekly)
  []
 
 
-Underfull \hbox (badness 1577) in paragraph at lines 1655--1656
+Underfull \hbox (badness 1577) in paragraph at lines 1657--1658
 \T1/cmr/m/n/10.95 based on vol-ume and ur-gency of
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 1656--1657
+Underfull \hbox (badness 6001) in paragraph at lines 1658--1659
 []\T1/cmr/m/n/10.95 Secure Stor-age Lo-ca-tion: Store
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 1656--1657
+Underfull \hbox (badness 1895) in paragraph at lines 1658--1659
 \T1/cmr/m/n/10.95 back-ups se-curely and re-dun-dantly
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 1658--1659
+Underfull \hbox (badness 1394) in paragraph at lines 1660--1661
 \T1/cmr/m/n/10.95 the backup restora-tion pro-cess to
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 1664--1665
+Underfull \hbox (badness 8075) in paragraph at lines 1666--1667
 []\T1/cmr/m/n/10.95 Include ver-sion-ing and snap-shot
  []
 
 <diagram/accounting_maintenance_workflow.png, id=675, 519.9425pt x 996.72375pt>
 File: diagram/accounting_maintenance_workflow.png Graphic file (type png)
 <use diagram/accounting_maintenance_workflow.png>
-Package pdftex.def Info: diagram/accounting_maintenance_workflow.png  used on input line 1671.
+Package pdftex.def Info: diagram/accounting_maintenance_workflow.png  used on input line 1673.
 (pdftex.def)             Requested size: 203.83417pt x 390.74347pt.
 
 
 [42 <./diagram/accounting_maintenance_workflow.png (PNG copy)>]
-Overfull \hbox (2.67732pt too wide) in alignment at lines 1679--1739
+Overfull \hbox (2.67732pt too wide) in alignment at lines 1681--1741
  [] [] 
  []
 
@@ -912,10 +914,10 @@ Overfull \hbox (2.67732pt too wide) in alignment at lines 1679--1739
 <diagram/use_case_accounting.png, id=702, 454.69875pt x 1678.27pt>
 File: diagram/use_case_accounting.png Graphic file (type png)
 <use diagram/use_case_accounting.png>
-Package pdftex.def Info: diagram/use_case_accounting.png  used on input line 1821.
+Package pdftex.def Info: diagram/use_case_accounting.png  used on input line 1823.
 (pdftex.def)             Requested size: 151.83414pt x 560.41216pt.
 
-Underfull \hbox (badness 2165) in paragraph at lines 1849--1850
+Underfull \hbox (badness 2165) in paragraph at lines 1851--1852
 []\T1/cmr/bx/n/10.95 Accountant: \T1/cmr/m/n/10.95 Per-forms mul-ti-ple tasks
  []
 
@@ -929,7 +931,7 @@ Underfull \hbox (badness 2165) in paragraph at lines 1849--1850
 <diagram/sequence_accounting_diagram.png, id=716, 1274.7625pt x 1331.97626pt>
 File: diagram/sequence_accounting_diagram.png Graphic file (type png)
 <use diagram/sequence_accounting_diagram.png>
-Package pdftex.def Info: diagram/sequence_accounting_diagram.png  used on input line 1920.
+Package pdftex.def Info: diagram/sequence_accounting_diagram.png  used on input line 1922.
 (pdftex.def)             Requested size: 452.9679pt x 473.29185pt.
 
 
@@ -937,15 +939,15 @@ Package pdftex.def Info: diagram/sequence_accounting_diagram.png  used on input 
 <diagram/class_diagram_account.png, id=725, 1368.11125pt x 1130.2225pt>
 File: diagram/class_diagram_account.png Graphic file (type png)
 <use diagram/class_diagram_account.png>
-Package pdftex.def Info: diagram/class_diagram_account.png  used on input line 1959.
+Package pdftex.def Info: diagram/class_diagram_account.png  used on input line 1961.
 (pdftex.def)             Requested size: 452.9679pt x 374.19904pt.
 
-Overfull \hbox (33.76639pt too wide) in paragraph at lines 1972--1973
+Overfull \hbox (33.76639pt too wide) in paragraph at lines 1974--1975
 []\T1/cmr/m/n/10.95 account_move: Em-ployed to rep-re-sent in-voice head-ers with at-tributes like id, date, amount_total,
  []
 
 
-Overfull \hbox (0.97803pt too wide) in paragraph at lines 1973--1974
+Overfull \hbox (0.97803pt too wide) in paragraph at lines 1975--1976
 []\T1/cmr/m/n/10.95 account_move_line: Rep-re-sents in-di-vid-ual in-voice line items against an in-voice (move_id),
  []
 
@@ -955,7 +957,7 @@ Overfull \hbox (0.97803pt too wide) in paragraph at lines 1973--1974
 <diagram/component_diagram.png, id=733, 1187.43625pt x 389.455pt>
 File: diagram/component_diagram.png Graphic file (type png)
 <use diagram/component_diagram.png>
-Package pdftex.def Info: diagram/component_diagram.png  used on input line 2004.
+Package pdftex.def Info: diagram/component_diagram.png  used on input line 2006.
 (pdftex.def)             Requested size: 452.9679pt x 148.56493pt.
 
 
@@ -963,7 +965,7 @@ Package pdftex.def Info: diagram/component_diagram.png  used on input line 2004.
 <diagram/Deployment_Diagram.png, id=738, 1443.3925pt x 880.28876pt>
 File: diagram/Deployment_Diagram.png Graphic file (type png)
 <use diagram/Deployment_Diagram.png>
-Package pdftex.def Info: diagram/Deployment_Diagram.png  used on input line 2018.
+Package pdftex.def Info: diagram/Deployment_Diagram.png  used on input line 2020.
 (pdftex.def)             Requested size: 452.9679pt x 276.24472pt.
 
 
@@ -971,7 +973,7 @@ Package pdftex.def Info: diagram/Deployment_Diagram.png  used on input line 2018
 <diagram/report_architecture.png, id=743, 1597.97pt x 705.63625pt>
 File: diagram/report_architecture.png Graphic file (type png)
 <use diagram/report_architecture.png>
-Package pdftex.def Info: diagram/report_architecture.png  used on input line 2040.
+Package pdftex.def Info: diagram/report_architecture.png  used on input line 2042.
 (pdftex.def)             Requested size: 452.9679pt x 200.02094pt.
 
 
@@ -979,88 +981,18 @@ Package pdftex.def Info: diagram/report_architecture.png  used on input line 204
 <diagram/Swimlane.png, id=748, 1042.89626pt x 3854.4pt>
 File: diagram/Swimlane.png Graphic file (type png)
 <use diagram/Swimlane.png>
-Package pdftex.def Info: diagram/Swimlane.png  used on input line 2062.
+Package pdftex.def Info: diagram/Swimlane.png  used on input line 2064.
 (pdftex.def)             Requested size: 151.62187pt x 560.37344pt.
 
-Underfull \hbox (badness 1867) in paragraph at lines 2066--2068
+Underfull \hbox (badness 1867) in paragraph at lines 2068--2070
 \T1/cmr/m/n/10.95 ing and billing pro-cess in Odoo 18, in-te-
  []
 
 
 
 [53 <./diagram/Swimlane.png>]
-Overfull \hbox (86.29031pt too wide) in paragraph at lines 2109--2110
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices.html 
- []
-
-
-Overfull \hbox (132.86789pt too wide) in paragraph at lines 2113--2114
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices/overview.html 
- []
-
-
-Overfull \hbox (187.61699pt too wide) in paragraph at lines 2117--2118
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices/electronic_invoicing.html 
- []
-
-
-Overfull \hbox (225.78877pt too wide) in paragraph at lines 2121--2122
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/customer_invoices/electronic_invoicing/austria.html 
- []
-
-
-Overfull \hbox (78.31157pt too wide) in paragraph at lines 2129--2130
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/sales/sales/invoicing/time_materials.html 
- []
-
-
-Overfull \hbox (151.01306pt too wide) in paragraph at lines 2135--2136
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/get_started/chart_of_accounts.html 
- []
-
-
-Overfull \hbox (21.44289pt too wide) in paragraph at lines 2139--2140
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/bank.html 
- []
-
-
-Overfull \hbox (133.10579pt too wide) in paragraph at lines 2143--2144
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/bank/bank_synchronization.html 
- []
-
-
-Overfull \hbox (51.14464pt too wide) in paragraph at lines 2147--2148
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/bank/loans.html 
- []
-
-
 
 [54]
-Overfull \hbox (34.50684pt too wide) in paragraph at lines 2151--2152
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/payment_providers.html 
- []
-
-
-Overfull \hbox (43.27907pt too wide) in paragraph at lines 2155--2156
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/payments.html 
- []
-
-
-Overfull \hbox (42.01353pt too wide) in paragraph at lines 2161--2162
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/reporting.html 
- []
-
-
-Overfull \hbox (92.82233pt too wide) in paragraph at lines 2165--2166
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/reporting/year_end.html 
- []
-
-
-Overfull \hbox (54.47302pt too wide) in paragraph at lines 2172--2173
-[]\T1/cmr/m/n/10.95 https://www.odoo.com/documentation/18.0/applications/finance/accounting/get_started.html 
- []
-
-
 
 [55] (./documentation.aux)
  ***********
@@ -1071,18 +1003,18 @@ Package rerunfilecheck Info: File `documentation.out' has not changed.
 (rerunfilecheck)             Checksum: 4E548C255945DCC42F802D75F6B23FE5;6693.
  ) 
 Here is how much of TeX's memory you used:
- 14016 strings out of 473190
- 216174 string characters out of 5715800
- 638856 words of memory out of 5000000
- 36747 multiletter control sequences out of 15000+600000
+ 14041 strings out of 473190
+ 216771 string characters out of 5715800
+ 639161 words of memory out of 5000000
+ 36768 multiletter control sequences out of 15000+600000
  570666 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,854b,816s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on documentation.pdf (56 pages, 8317018 bytes).
+Output written on documentation.pdf (56 pages, 8320199 bytes).
 PDF statistics:
- 879 PDF objects out of 1000 (max. 8388607)
- 725 compressed objects within 8 object streams
+ 911 PDF objects out of 1000 (max. 8388607)
+ 757 compressed objects within 8 object streams
  359 named destinations out of 1000 (max. 500000)
  493 words of extra memory for PDF output out of 10000 (max. 10000000)
 

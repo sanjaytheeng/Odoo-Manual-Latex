@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1756981543.38806 "/Users/sanjaytamang/Documents/Latex_odoo/documentation.tex" "documentation.pdf" "documentation" 1756981548.67049 0
-  "/Users/sanjaytamang/Documents/Latex_odoo/documentation.tex" 1756981546.60698 99053 352e46863b89865e66891021435f5487 ""
+["pdflatex"] 1757263092.5758 "/Users/sanjaytamang/Documents/Latex_odoo/documentation.tex" "documentation.pdf" "documentation" 1757263097.81701 0
+  "/Users/sanjaytamang/Documents/Latex_odoo/documentation.tex" 1757263095.51582 99189 cbe8d22e9694ed7d14170107d0050999 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -102,6 +102,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty" 1730496337 15900 3cb191e576c7a313634d2813c55d4bf1 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty" 1727642399 55384 b454dec21c2d9f45ec0b793f0995b992 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty" 1641763214 4675 e4b8c405820368c2dfb03526e16d725a ""
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1756398238 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1756398184 3345740 f38a6530affa88ca97bfe45b30982be1 ""
@@ -149,10 +150,10 @@
   "diagram/sales_to_cash_cycle.png" 1756487129.33935 219138 6687f5f8e587d291df88f57577611ae3 ""
   "diagram/sequence_accounting_diagram.png" 1756978047.90861 107358 eec4886347677a452c2e5e68ce6affef ""
   "diagram/use_case_accounting.png" 1756963777.82152 145342 6545052c4aa64101f1415c510074cfce ""
-  "documentation.aux" 1756981548.58712 4856 51b01fced2f075980b0e088f1e1b34f8 "pdflatex"
-  "documentation.out" 1756981548.58793 6693 4e548c255945dcc42f802d75f6b23fe5 "pdflatex"
-  "documentation.tex" 1756981546.60698 99053 352e46863b89865e66891021435f5487 ""
-  "documentation.toc" 1756981548.58816 3147 5782c6af570ff97a7a865c95726d3b04 "pdflatex"
+  "documentation.aux" 1757263097.73033 4856 51b01fced2f075980b0e088f1e1b34f8 "pdflatex"
+  "documentation.out" 1757263097.73111 6693 4e548c255945dcc42f802d75f6b23fe5 "pdflatex"
+  "documentation.tex" 1757263095.51582 99189 cbe8d22e9694ed7d14170107d0050999 ""
+  "documentation.toc" 1757263097.73133 3147 5782c6af570ff97a7a865c95726d3b04 "pdflatex"
   "logo.png" 1756479059.54051 53016 a5451edc6eee6b5dbe80f27b748bfac2 ""
   (generated)
   "documentation.aux"

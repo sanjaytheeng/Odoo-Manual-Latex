@@ -70,3 +70,10 @@ Edit the `documentation.tex` file to add or modify the documentation content. Us
 - [LaTeX Project](https://www.latex-project.org/)
 - [Overleaf Online Editor](https://www.overleaf.com/)
 - [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
+
+## Extension Used For Latex
+
+- [LaTeX Workshop] (https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+- [LaTeX Snippets] (https://marketplace.visualstudio.com/items?itemName=JeffersonQin.latex-snippets-jeff)
+- [LaTeX] (https://marketplace.visualstudio.com/items?itemName=mathematic.vscode-latex)
+- [LaTeX Utilities] (https://marketplace.visualstudio.com/items?itemName=tecosaur.latex-utilities)
